@@ -1,3 +1,4 @@
+// Not Completed Or Optimized
 let mergeRanges = (meetings) => {
   meetings.sort((a, b) => {
     return a.startTime - b.startTime;

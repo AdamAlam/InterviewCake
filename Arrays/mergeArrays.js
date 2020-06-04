@@ -1,4 +1,4 @@
-// Done
+// Completed and Optimized
 let mergeArrays = (myArray, alicesArray) => {
   let sortedArr = [];
   let myIdx = 0;

@@ -1,4 +1,4 @@
-// Done
+// completed and Optimized
 let reverse = (arrayOfChars) => {
   for (let i = 0; i < arrayOfChars.length / 2; i++) {
     let first = arrayOfChars[i];

@@ -1,3 +1,4 @@
+// Working, not optimized
 let isFirstComeFirstServed = (takeOutOrders, dineInOrders, servedOrders) => {
   let takeOutCheck = [];
   let dineInCheck = [];
